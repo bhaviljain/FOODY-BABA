@@ -1,0 +1,11 @@
+class based components : javascript fucntion.
+ class based components is class that has render method which return some piece of JSX
+in class based components you need to extend React.component
+
+
+
+
+
+
+
+fucntion based components : is js fucntion that return some piece of JSX
